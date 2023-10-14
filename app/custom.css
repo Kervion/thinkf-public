@@ -1,0 +1,4 @@
+.react-datepicker__day--selected,
+li.react-datepicker__time-list-item--selected {
+  background-color: #1e293b !important;
+}
